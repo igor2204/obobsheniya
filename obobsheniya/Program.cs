@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 class Calculator<T>
 {
     public T Add(T a, T b)
